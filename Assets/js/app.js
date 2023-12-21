@@ -55,23 +55,23 @@ const createProduct = () => {
         ];
         
         const productPricesArray = [
-            "25 kr.",
-            "27 kr.",
-            "30 kr.",
+            "20 kr.",
             "40 kr.",
-            "50 kr.",
             "60 kr.",
-            "70 kr.",
             "80 kr.",
-            "90 kr.",
             "100 kr.",
-            "110 kr.",
             "120 kr.",
-            "130 kr.",
             "140 kr.",
-            "150 kr.",
-            "160 kr.", 
-            "170 kr."
+            "160 kr.",
+            "180 kr.",
+            "200 kr.",
+            "220 kr.",
+            "240 kr.",
+            "260 kr.",
+            "280 kr.",
+            "300 kr.",
+            "320 kr.", 
+            "340 kr."
         ];
 
         const productHeader = document.createElement("h2");
